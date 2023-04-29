@@ -23,10 +23,9 @@
   .perfume-image {
     width: 100%;
     height: 240px;
+    content: url("../../assets/images/image-product-mobile.jpg");
   }
-  img {
-    content: url("././public/images/image-product-mobile.jpg");
-  }
+
   .product-info-banner {
     width: 345px;
     height: 370px;
