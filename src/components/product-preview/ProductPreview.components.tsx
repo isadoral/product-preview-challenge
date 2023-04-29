@@ -5,7 +5,7 @@ const ProductPreview = () => {
   return (
     <div className="product-preview">
       <img
-        src="src/assets/images/image-product-desktop.jpg"
+        src="././public/static/images/image-product-desktop.jpg"
         alt="perfume image"
         className="perfume-image"
       />
