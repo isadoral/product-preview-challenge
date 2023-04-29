@@ -25,7 +25,7 @@
     height: 240px;
   }
   img {
-    content: url("././public/static/images/image-product-mobile.jpg");
+    content: url("././public/images/image-product-mobile.jpg");
   }
   .product-info-banner {
     width: 345px;
