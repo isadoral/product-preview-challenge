@@ -24,7 +24,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Live Site URL: [Vercel deployment](https://fm-qr-code-challenge-5e6cam4f0-isadoral.vercel.app/)
+- Live Site URL: [Vercel deployment](https://product-preview-challenge-seven.vercel.app/)
 
 ## My process
 
