@@ -1,0 +1,27 @@
+.cart-button {
+  height: 45px;
+  width: 235px;
+  border-radius: 10px;
+  border-style: none;
+  background-color: hsl(158, 36%, 37%);
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-text {
+  margin-left: 10px;
+}
+
+.cart-button:hover {
+  background-color: hsl(156, 42%, 18%);
+  cursor: pointer;
+}
+
+@media (max-width: 500px) {
+  .cart-button {
+    width: 290px;
+  }
+}

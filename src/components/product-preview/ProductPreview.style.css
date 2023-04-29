@@ -1,0 +1,56 @@
+.perfume-image {
+  width: 300px;
+  height: 450px;
+  border-radius: 10px;
+}
+.product-preview {
+  width: 600px;
+  height: 450px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 10px;
+}
+
+@media (max-width: 600px) {
+  .product-preview {
+    flex-direction: column;
+    width: 345px;
+    height: 610px;
+  }
+  .perfume-image {
+    width: 100%;
+    height: 240px;
+  }
+  img {
+    content: url("src/assets/images/image-product-mobile.jpg");
+  }
+  .product-info-banner {
+    width: 345px;
+    height: 370px;
+  }
+  h1 {
+    margin-left: 25px;
+  }
+  h2 {
+    margin-left: 25px;
+  }
+  h3 {
+    margin-left: 25px;
+  }
+  h4 {
+    margin-left: 25px;
+  }
+  p {
+    margin-left: 25px;
+  }
+  .price {
+    margin-left: 0px;
+  }
+  button {
+    width: 290px;
+    height: 50px;
+  }
+}
