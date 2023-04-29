@@ -19,7 +19,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-![](src/assets/images/screenshot-vercel.png)
+![](src/assets/images/screenshot-desktop.png)
+![](src/assets/images/screenshot-mobile.png)
 
 ### Links
 
